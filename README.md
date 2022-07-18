@@ -11,11 +11,12 @@ SECTION I: Target-Date Fund
 A. Introduction
 B. Growth of Target-Date Funds 
 C. Comparison between Target-Date Funds and Traditional Mutual Funds 
+
 SECTION II: Introduction of Glide Path and Analysis of Shortfall Risk
 A. The core concept of the glide path
-B. Key factors in the design of the glidepath 
-C. The Prevailing Glidepath 
-D. Real-world implementation of target-date funds 
+B. Key factors in the design of the glidepath
+C. The Prevailing Glidepath
+D. Real-world implementation of target-date funds
 E. Rebalancing Policy and Its Market Impact 
 
 SECTION III: Optimize the Existing Glide Path by Predicted Market Movement
